@@ -1,1 +1,2 @@
 # projekty-spoj
+WITAMY W PROJEKTACH SPOJ
